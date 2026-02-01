@@ -1,0 +1,21 @@
+body{
+  background: #370E39;
+  color: #F9EAFA;
+  text-align: center;
+  font-family: system-ui;
+}
+
+
+a{
+  color: red;
+  text-decoration: none;
+  line-height: 2;
+  font-size: 16px;
+  transition: 400ms;
+}
+
+a:hover{
+  font-size: 12px;
+  transition: 400ms;
+  text-shadow: 3px 2px white;
+}
